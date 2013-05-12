@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-pymk-sorter",
+  "fullName": "LinkedIn PYMK Sorter",
+  "id": "jid1-os04qR5NnqzXAA",
+  "description": "Sorts the People You May Know list on LinkedIn",
+  "author": "Justin Lloyd",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
