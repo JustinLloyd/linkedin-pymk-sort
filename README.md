@@ -1,4 +1,5 @@
 * Welcome
+
 Thanks for downloading Justin's LinkedIn People You May Know Sorter Firefox
 Addon
 
@@ -44,7 +45,3 @@ http://www.otakunozoku.com/Downloads/linkedin-pymk-sorter.xpi
 
 * Support
 Absolutely none provided.
-
-
-             Software originally created by Justin Lloyd in 1999
-         and distributed via the DO WHATEVER PUBLIC LICENSE in 2012.
