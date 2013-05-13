@@ -1,4 +1,5 @@
-* Welcome
+Welcome
+=======
 
 Thanks for downloading Justin's LinkedIn People You May Know Sorter Firefox
 Addon
@@ -8,7 +9,8 @@ https://github.com/JustinLloyd/linkedin-pymk-sort/ for  more information and to
 download the latest version.
 
 
-* License
+License
+=======
                       DO WHATEVER PUBLIC LICENSE*
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
@@ -23,7 +25,9 @@ download the latest version.
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-* About
+About
+=====
+
 LinkedIn's People You May Know feature doesn't provide any way to sort the page
 of results. You cannot sort by last name, or number of connections, or anything 
 else. The results you get are fixed. This Firefox add-on fixes that: it takes
@@ -43,5 +47,6 @@ toolbar area and selec the sorting criteria.
 The latest version is also available for download directly from
 http://www.otakunozoku.com/Downloads/linkedin-pymk-sorter.xpi
 
-* Support
+Support
+=======
 Absolutely none provided.
